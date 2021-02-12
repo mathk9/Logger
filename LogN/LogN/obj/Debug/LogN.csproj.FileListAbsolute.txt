@@ -1,0 +1,11 @@
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\bin\Debug\LogN.exe
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\bin\Debug\LogN.pdb
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\bin\Debug\NLog.pdb
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\bin\Debug\NLog.xml
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\obj\Debug\LogN.Form1.resources
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\obj\Debug\LogN.Properties.Resources.resources
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\obj\Debug\LogN.csproj.GenerateResource.Cache
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\obj\Debug\LogN.exe
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\obj\Debug\LogN.pdb
+C:\Users\andre.cini\Desktop\Curso Renato\LogN\LogN\bin\Debug\NLog.config
